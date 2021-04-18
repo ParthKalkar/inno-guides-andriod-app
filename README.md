@@ -5,3 +5,4 @@ The project is about having an andriod application to give information about the
 
 
 
+To test the app, download the code and run it on andriod studio
